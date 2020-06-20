@@ -1,0 +1,20 @@
+2017-07-04 04:07:53 PM	MySQL server localhost successfully Connected
+2017-07-04 04:07:53 PM	Mail service started
+2017-07-04 04:08:23 PM	Sending PLDT | Ticket No: 651995566 email notification to winterbugahod@gmail.com,canete.paulo@katipunanbank.com,martinez.juvylito@gmail.com,i.salimbagat@katipunanbank.com
+2017-07-04 04:08:23 PM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-07-04 04:08:28 PM	PLDT | Ticket No: 651995566 was successfully sent
+2017-07-04 04:10:53 PM	Sending PLDT | Ticket No: 651995566 email notification to winterbugahod@gmail.com,canete.paulo@katipunanbank.com,martinez.juvylito@gmail.com,i.salimbagat@katipunanbank.com
+2017-07-04 04:10:53 PM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-07-04 04:11:35 PM	Failure sending mail.
+2017-07-04 04:11:37 PM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-07-04 04:12:19 PM	Failure sending mail.
+2017-07-04 04:12:23 PM	Sending PLDT | Ticket No: 651995566 email notification to winterbugahod@gmail.com,canete.paulo@katipunanbank.com,martinez.juvylito@gmail.com,i.salimbagat@katipunanbank.com
+2017-07-04 04:12:23 PM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-07-04 04:13:05 PM	Failure sending mail.
+2017-07-04 04:13:07 PM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-07-04 04:13:49 PM	Failure sending mail.
+2017-07-04 04:13:51 PM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-07-04 04:14:33 PM	Failure sending mail.
+2017-07-04 04:14:53 PM	Sending PLDT | Ticket No: 651995566 email notification to winterbugahod@gmail.com,canete.paulo@katipunanbank.com,martinez.juvylito@gmail.com,i.salimbagat@katipunanbank.com
+2017-07-04 04:14:53 PM	Signin to smtp.gmail.com server, port 587 with enable ssl True
+2017-07-04 04:14:58 PM	PLDT | Ticket No: 651995566 was successfully sent

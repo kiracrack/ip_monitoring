@@ -1,0 +1,35 @@
+D:\My.Net\System Core\IPM Monitoring\source code\bin\Debug\IPM Tool.exe.config
+D:\My.Net\System Core\IPM Monitoring\source code\obj\Debug\IPM Tool.exe
+D:\My.Net\System Core\IPM Monitoring\source code\obj\Debug\IPM Tool.xml
+D:\My.Net\System Core\IPM Monitoring\source code\obj\Debug\IPM Tool.pdb
+D:\My.Net\System Core\IPM Monitoring\source code\obj\Debug\IPMTool.frmConnectionSetup.resources
+D:\My.Net\System Core\IPM Monitoring\source code\obj\Debug\IPMTool.frmMainMenu.resources
+D:\My.Net\System Core\IPM Monitoring\source code\obj\Debug\IPMTool.frmProviderSettings.resources
+D:\My.Net\System Core\IPM Monitoring\source code\obj\Debug\IPMTool.frmEmailSettings.resources
+D:\My.Net\System Core\IPM Monitoring\source code\obj\Debug\IPMTool.Resources.resources
+D:\My.Net\System Core\IPM Monitoring\source code\obj\Debug\IPMTool.frmPLDTReportTransaction.resources
+D:\My.Net\System Core\IPM Monitoring\source code\obj\Debug\IPMTool.frmReportConnection.resources
+D:\My.Net\System Core\IPM Monitoring\source code\obj\Debug\IPMTool.frmDSLConnectionsInfo.resources
+D:\My.Net\System Core\IPM Monitoring\source code\obj\Debug\IPMTool.frmDSLConnections.resources
+D:\My.Net\System Core\IPM Monitoring\source code\obj\Debug\IPM Tool.vbproj.GenerateResource.Cache
+D:\My.Net\System Core\IPM Monitoring\source code\bin\Debug\IPM Tool.exe
+D:\My.Net\System Core\IPM Monitoring\source code\bin\Debug\IPM Tool.pdb
+D:\My.Net\System Core\IPM Monitoring\source code\bin\Debug\IPM Tool.xml
+D:\My.Net\System Core\IPM Monitoring\source code\bin\Debug\System.Data.dll
+D:\My.Net\System Core\IPM Monitoring\source code\bin\Debug\System.Deployment.dll
+D:\My.Net\System Core\IPM Monitoring\source code\bin\Debug\System.dll
+D:\My.Net\System Core\IPM Monitoring\source code\bin\Debug\System.Drawing.dll
+D:\My.Net\System Core\IPM Monitoring\source code\bin\Debug\System.Windows.Forms.dll
+D:\My.Net\System Core\IPM Monitoring\source code\bin\Debug\System.Xml.dll
+D:\My.Net\System Core\IPM Monitoring\source code\bin\Debug\System.Xml.Linq.dll
+D:\My.Net\System Core\IPM Monitoring\source code\bin\Debug\System.Xml.Linq.xml
+D:\My.Net\System Core\IPM Monitoring\source code\obj\Debug\IPMTool.frmLoginAccount.resources
+D:\My.Net\System Core\IPM Monitoring\source code\obj\Debug\IPMTool.frmAccountInformation.resources
+D:\My.Net\System Core\IPM Monitoring\source code\obj\Debug\IPMTool.frmEmailNotification.resources
+D:\My.Net\System Core\IPM Monitoring\source code\obj\Debug\IPMTool.frmPendingReports.resources
+D:\My.Net\System Core\IPM Monitoring\source code\obj\Debug\IPMTool.frmCloseReport.resources
+D:\My.Net\System Core\IPM Monitoring\source code\obj\Debug\IPM Tool.vbprojResolveAssemblyReference.cache
+C:\My Files\My.Net\System Core\IPM Monitoring\source code\bin\Debug\IPM Tool.exe.config
+C:\My Files\My.Net\System Core\IPM Monitoring\source code\obj\Debug\IPM Tool.exe
+C:\My Files\My.Net\System Core\IPM Monitoring\source code\obj\Debug\IPM Tool.xml
+C:\My Files\My.Net\System Core\IPM Monitoring\source code\obj\Debug\IPM Tool.pdb

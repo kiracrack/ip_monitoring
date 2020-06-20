@@ -1,0 +1,48 @@
+D:\My.Net\Coffeecup Services\Services\bin\Debug\CoffeecupServices.exe.config
+D:\My.Net\Coffeecup Services\Services\bin\Debug\CoffeecupServices.exe
+D:\My.Net\Coffeecup Services\Services\bin\Debug\CoffeecupServices.pdb
+D:\My.Net\Coffeecup Services\Services\bin\Debug\CoffeecupServices.xml
+D:\My.Net\Coffeecup Services\Services\obj\Debug\CoffeecupServices.CoffeecupServices.resources
+D:\My.Net\Coffeecup Services\Services\obj\Debug\CoffeecupServices.Resources.resources
+D:\My.Net\Coffeecup Services\Services\obj\Debug\CoffeecupServices.ProjectInstaller.resources
+D:\My.Net\Coffeecup Services\Services\obj\Debug\CoffeecupServices.vbproj.GenerateResource.Cache
+D:\My.Net\Coffeecup Services\Services\obj\Debug\CoffeecupServices.exe
+D:\My.Net\Coffeecup Services\Services\obj\Debug\CoffeecupServices.xml
+D:\My.Net\Coffeecup Services\Services\obj\Debug\CoffeecupServices.pdb
+D:\My.Net\System Core\Coffeecup Services\Services\bin\Debug\CoffeecupServices.exe.config
+D:\My.Net\System Core\Coffeecup Services\Services\obj\Debug\CoffeecupServices.exe
+D:\My.Net\System Core\Coffeecup Services\Services\obj\Debug\CoffeecupServices.xml
+D:\My.Net\System Core\Coffeecup Services\Services\obj\Debug\CoffeecupServices.pdb
+D:\My.Net\System Core\Coffeecup Services\Services\bin\Debug\CoffeecupServices.exe
+D:\My.Net\System Core\Coffeecup Services\Services\bin\Debug\CoffeecupServices.pdb
+D:\My.Net\System Core\Coffeecup Services\Services\bin\Debug\CoffeecupServices.xml
+D:\My.Net\System Core\Coffeecup Services\Services\obj\Debug\CoffeecupServices.CoffeecupServices.resources
+D:\My.Net\System Core\Coffeecup Services\Services\obj\Debug\CoffeecupServices.Resources.resources
+D:\My.Net\System Core\Coffeecup Services\Services\obj\Debug\CoffeecupServices.ProjectInstaller.resources
+D:\My.Net\System Core\Coffeecup Services\Services\obj\Debug\CoffeecupServices.vbproj.GenerateResource.Cache
+D:\My.Net\System Core\Coffeecup Services\Mail Services\Services\bin\Debug\CoffeecupServices.exe.config
+D:\My.Net\System Core\Coffeecup Services\Mail Services\Services\obj\Debug\CoffeecupServices.exe
+D:\My.Net\System Core\Coffeecup Services\Mail Services\Services\obj\Debug\CoffeecupServices.xml
+D:\My.Net\System Core\Coffeecup Services\Mail Services\Services\obj\Debug\CoffeecupServices.pdb
+D:\My.Net\System Core\Coffeecup Services\Mail Services\Services\bin\Debug\CoffeecupServices.exe
+D:\My.Net\System Core\Coffeecup Services\Mail Services\Services\bin\Debug\CoffeecupServices.pdb
+D:\My.Net\System Core\Coffeecup Services\Mail Services\Services\bin\Debug\CoffeecupServices.xml
+D:\My.Net\System Core\Coffeecup Services\Mail Services\Services\obj\Debug\CoffeecupServices.CoffeecupServices.resources
+D:\My.Net\System Core\Coffeecup Services\Mail Services\Services\obj\Debug\CoffeecupServices.Resources.resources
+D:\My.Net\System Core\Coffeecup Services\Mail Services\Services\obj\Debug\CoffeecupServices.ProjectInstaller.resources
+D:\My.Net\System Core\Coffeecup Services\Mail Services\Services\obj\Debug\CoffeecupServices.vbproj.GenerateResource.Cache
+D:\My.Net\System Core\IPM Monitoring\Mail Services\Services\obj\Debug\CoffeecupServices.vbproj.GenerateResource.Cache
+D:\My.Net\System Core\IPM Monitoring\Mail Services\Services\bin\Debug\MailServices.exe.config
+D:\My.Net\System Core\IPM Monitoring\Mail Services\Services\bin\Debug\MailServices.exe
+D:\My.Net\System Core\IPM Monitoring\Mail Services\Services\bin\Debug\MailServices.pdb
+D:\My.Net\System Core\IPM Monitoring\Mail Services\Services\bin\Debug\MailServices.xml
+D:\My.Net\System Core\IPM Monitoring\Mail Services\Services\obj\Debug\MailServices.MailServices.resources
+D:\My.Net\System Core\IPM Monitoring\Mail Services\Services\obj\Debug\MailServices.Resources.resources
+D:\My.Net\System Core\IPM Monitoring\Mail Services\Services\obj\Debug\MailServices.ProjectInstaller.resources
+D:\My.Net\System Core\IPM Monitoring\Mail Services\Services\obj\Debug\MailServices.exe
+D:\My.Net\System Core\IPM Monitoring\Mail Services\Services\obj\Debug\MailServices.xml
+D:\My.Net\System Core\IPM Monitoring\Mail Services\Services\obj\Debug\MailServices.pdb
+C:\My Files\My.Net\System Core\IPM Monitoring\Mail Services\Services\bin\Debug\MailServices.exe.config
+C:\My Files\My.Net\System Core\IPM Monitoring\Mail Services\Services\obj\Debug\MailServices.exe
+C:\My Files\My.Net\System Core\IPM Monitoring\Mail Services\Services\obj\Debug\MailServices.xml
+C:\My Files\My.Net\System Core\IPM Monitoring\Mail Services\Services\obj\Debug\MailServices.pdb
